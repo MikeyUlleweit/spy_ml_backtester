@@ -37,7 +37,7 @@ This project builds a machine learning pipeline to predict the directional movem
 
 ---
 
-## 📊 Equity Curve
+## 📊 Equity Curve(go to outpu folder if not loading)
 
 ![Equity Curve](equity_curve_plot.png)
 
